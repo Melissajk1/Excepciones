@@ -19,7 +19,7 @@ public class Excepciones {
       try{
        Recursivo();
       }catch (StackOverflowError e){
-          System.out.println("El metodo es muy recursivo");
+          System.out.println("El metodo es muy recursiv");
       }
 
       try{ 
